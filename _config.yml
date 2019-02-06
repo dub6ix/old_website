@@ -1,1 +1,4 @@
-theme: jekyll-theme-minimal
+theme: indego
+name: Walter Scott
+bio: 'A Man who travels the world eating noodles'
+picture: 'assets/images/profile.jpeg'
